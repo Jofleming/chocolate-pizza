@@ -1,0 +1,35 @@
+#logo{
+    text-align: left;
+    font-family: serif;
+}
+header{
+    height: 60px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+#title{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+header section{
+    float: left;
+    width: 200px;
+    margin-top: 20px;
+}
+header div{
+    float: right;
+    width: 250px;
+}
+header li{
+    display: inline-block;
+}
+header img{
+    float: left;
+}
+main{
+    text-align: center;
+}
+.recipe{
+    text-align: center;
+}
